@@ -1,4 +1,4 @@
-package 逻辑控制
+package struct
 
 class StructStudy {
 
